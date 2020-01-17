@@ -17,4 +17,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by João Carli :wave: [Entre na comunidade da RocketSeat! :rocket:](https://discordapp.com/invite/gCRAFhc)
+Feito com :purple_heart: by João Carli :wave: [Entre na comunidade da RocketSeat! :rocket:](https://discordapp.com/invite/gCRAFhc)
