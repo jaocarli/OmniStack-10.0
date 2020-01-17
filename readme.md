@@ -19,6 +19,11 @@ A semana foi ministrada pelo Mestre Jedi [Diego Fernandes](https://github.com/di
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
+## :muscle: Quem deu aquela força para não desistir?
+
+O pessoal da He4rt Developers deu aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
+[Comunidade na comunidade da He4rt Developers!](https://discord.gg/8mA4CM2)
+
 ---
 
 Feito com :purple_heart: by João Carli :wave: [Entre na comunidade da RocketSeat! :rocket:](https://discordapp.com/invite/gCRAFhc)
