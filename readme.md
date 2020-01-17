@@ -1,4 +1,4 @@
-# Semana OmniStack 10.0 :rocket:
+# Semana OmniStack 10.0 da Rocketseat :rocket:
 
 ## :rocket: Tecnologias usadas
 Este maravilhoso projeto foi desenvolvido com as seguintes tecnologias:
@@ -10,6 +10,10 @@ Este maravilhoso projeto foi desenvolvido com as seguintes tecnologias:
 ## :computer: Projeto
 
 O DevRadar é um projeto que visa conectar desenvolvedores com clientes por meio da localidade, em um raio de 10km.
+
+## :mortar_board: Quem ministrou?
+
+A semana foi ministrada pelo Mestre Jedi [Diego Fernandes](https://github.com/diego3g)
 
 ## :memo: Licença
 
