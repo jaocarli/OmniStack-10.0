@@ -13,7 +13,7 @@ mongoose.set('useCreateIndex', true);
 
 setupWebsocket(server);
 
-mongoose.connect('mongodb+srv://omnistack:asatruvanatru321@@cluster0-ao3gl.mongodb.net/week10?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://<user>:<password>@cluster0-efoe3.mongodb.net/test?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
